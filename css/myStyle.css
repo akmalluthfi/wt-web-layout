@@ -70,6 +70,14 @@ section {
 	object-position: center;
 }
 
+.song-card img {
+	max-width: 10rem;
+}
+
+.song-card {
+	max-width: 768px;
+}
+
 @media (max-width: 767.98px) {
 	.album-card {
 		max-width: 15rem;
